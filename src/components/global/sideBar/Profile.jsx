@@ -12,7 +12,7 @@ const Profile = ({ isCollapsed }) => {
           <div>
             <img src={myImg} alt="" />
           </div>
-          <h2>Myth</h2>
+          <h2>Yassin</h2>
           <h4>VP Fancy Admin</h4>
         </div>
       )}
